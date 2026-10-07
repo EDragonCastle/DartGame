@@ -42,8 +42,3 @@ public class CameraSetting : MonoBehaviour, IChannel
 }
 
 
-public struct CinemachineSetting
-{
-    public GameObject target;
-    public bool isTarget;
-}
